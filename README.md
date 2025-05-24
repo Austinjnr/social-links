@@ -11,8 +11,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## 🔗 Links
 
-- 🧠 Solution on Frontend Mentor[Check solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-hCsL9LQiCq)
-- 💻 Live Site: [View site](https://blog-preview-flame.vercel.app/)
+- 🧠 Solution on Frontend Mentor[Check solution](https://www.frontendmentor.io/solutions/social-links-profile-xt1psGUJ5O)
+- 💻 Live Site: [View site](https://social-links-nine-flame.vercel.app/)
 
 ## 🛠️ Built With
 
